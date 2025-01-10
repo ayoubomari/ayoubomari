@@ -19,7 +19,11 @@ Specialized in building scalable web applications and distributed systems with a
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go logo" title="Go" height="28" />
   &nbsp;
+  
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="28" />
+  &nbsp;
+  
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Pyhton logo" title="Python" height="28" />
   &nbsp;
 <hr>
 
